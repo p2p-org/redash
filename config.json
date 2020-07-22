@@ -1,0 +1,81 @@
+{
+  "polkadot": {
+    "title": "Polkadot",
+    "imageUrl": "",
+    "tokenName": "",
+    "dashboards": [
+      {
+       "meta": {
+          "title": "test",
+          "description": "test test",
+          "urlImg": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg"
+        },
+        "title": "Polkadot CC1 state of staking dashboard",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
+        "slug": "CC1-state-of-staking",
+        "stakeUrl": "/polkadot?utm_source=PolkadotDashboard&utm_campaign=PolkadotDashboard",
+        "redashUrl": "https://redash.p2p.org/public/dashboards/cviD6Ci7oUDRnSoq8CqNJImrJfq8uuY37DsiF2CY?org_slug=default"
+      },
+      {
+        "meta": {
+          "title": "test",
+          "description": "test test",
+          "urlImg": "https://www.ivi.ru/titr/uploads/2015/11/19/f0fad4c056d4795d6646340959e8672f.jpg/1400x0"
+        },
+        "title": "dashboard 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
+        "slug": "CC1-db2",
+        "stakeUrl": "/polkadot?utm_source=PolkadotDashboard&utm_campaign=PolkadotDashboard",
+        "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
+      }
+    ]
+  },
+  "tezos": {
+    "title": "Tezos",
+    "imageUrl": "",
+    "dashboards": [
+      {
+        "meta": {
+          "title": "test",
+          "description": "test test",
+          "urlImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyZKr61lMLG7yLlxQTb9L5xOohQiGexcMS7Q&usqp=CAU"
+        },
+        "title": "dashboard 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
+        "slug": "db1",
+        "stakeUrl": "",
+        "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
+      },
+      {
+        "meta": {
+          "title": "test",
+          "description": "test test",
+          "urlImg": "https://koloro.ua/media/upload/images/blog/Smeshnye%20nazvaniya%20vodki%20kak-izbezhat-oshibok-pri-razrabotke-nazvanij/33.jpg"
+        },
+        "title": "dashboard 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
+        "slug": "db2",
+        "stakeUrl": "",
+        "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
+      }
+    ]
+  },
+  "cosmos": {
+    "title": "Cosmos",
+    "imageUrl": "",
+    "dashboards": [
+      {
+        "meta": {
+          "title": "test",
+          "description": "test test",
+          "urlImg": "https://koloro.ua/media/upload/images/blog/Smeshnye%20nazvaniya%20vodki%20kak-izbezhat-oshibok-pri-razrabotke-nazvanij/33.jpg"
+        },
+        "title": "dashboard cosmos 333",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
+        "slug": "db2",
+        "stakeUrl": "",
+        "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
+      }
+    ]
+  }
+}

@@ -25,7 +25,7 @@
         "title": "dashboard 2",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
         "slug": "CC1-db2",
-        "stakeUrl": "/polkadot?utm_source=PolkadotDashboard&utm_campaign=PolkadotDashboard",
+        "stakeUrl": "https://p2p.org/polkadot?utm_source=PolkadotDashboard&utm_campaign=PolkadotDashboard",
         "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
       }
     ]

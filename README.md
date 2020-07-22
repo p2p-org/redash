@@ -1,5 +1,6 @@
 # template 
 
+```json
 {
   "{network}": {
     "title": "{network name}",
@@ -19,4 +20,5 @@
         "redashUrl": ""
       }
     ]
-  },
+  }
+  ```
